@@ -6,4 +6,4 @@ cambios prueba jenkins prueba 7
 
 
 prueba de pipeline
-cambios en la rama-prueba
+cambio para llamar al script
