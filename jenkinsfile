@@ -1,0 +1,23 @@
+pipeline {
+    agent any
+    stages {
+        stage('Build') {
+            steps {
+                echo 'Compilando el código...'
+                // Aquí irían los pasos para compilar tu código
+            }
+        }
+        stage('Test') {
+            steps {
+                echo 'Ejecutando pruebas...'
+                // Aquí irían los pasos para ejecutar tus pruebas
+            }
+        }
+        stage('Deploy') {
+            steps {
+                echo 'Desplegando la aplicación...'
+                // Aquí irían los pasos para desplegar tu aplicación
+            }
+        }
+    }
+}
