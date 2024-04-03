@@ -1,7 +1,7 @@
 # primera-tarea-jenkins
 repo para crear un CI basico usando docker y jenkins
 
-cambios prueba jenkins prueba 9
+cambios prueba jenkins prueba 10
 
 
 prueba de pipeline con jenkinsfile
